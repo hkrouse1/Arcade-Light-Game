@@ -1,3 +1,3 @@
-# ENGR
+# Acrcade Light Game
 
-Repository for ENGR 103 projects.
+
